@@ -3,6 +3,7 @@
 class Sprite{
   constructor( imageArray ){
     this.frames = imageArray;
+    this.x = 100;
   }
 
 }
