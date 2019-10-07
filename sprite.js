@@ -6,7 +6,9 @@ class Sprite{
     this.currentFrame = 0;
     this.x = locationX;
     this.y = locationY;
-    this.velocityy = 100;
+    this.velocityY = 0;
+    this.velocityX = 0;
+    this.scaleF = 1
   }
   
 }
