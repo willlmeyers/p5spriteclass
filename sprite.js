@@ -8,7 +8,7 @@ class Sprite{
     this.y = locationY;
     this.velocityY = 0;
     this.velocityX = 0;
-    this.scaleF = 1
+    this.scaleF = 1;
   }
   
 }
